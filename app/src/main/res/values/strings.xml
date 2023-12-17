@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">android3-hw3.1</string>
+    <string name="hint_contact_name">Contact Name</string>
+    <string name="hint_contact_data">Contact Data</string>
+</resources>
